@@ -102,11 +102,9 @@ Branching in Git allows developers to work on different features or fixes indepe
 
 4. Merge Branches: After the work is complete, use git merge <branch-name> to merge the changes back into the main branch.
 
-How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
-Branching is important in collaborative development, as it allows multiple developers to work on separate tasks without conflicts.
 
-7. Pull Requests in GitHub
+7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 A pull request (PR) is a way to propose changes to a codebase. It allows others to review and discuss your changes before merging them into the main project. The steps involved in creating and merging a PR are:
 
@@ -126,7 +124,7 @@ A pull request (PR) is a way to propose changes to a codebase. It allows others 
 
 Pull requests facilitate collaboration by allowing teams to review code, discuss changes, and ensure quality before integration.
 
-8. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 Forking a repository is creating a copy of someone else's repository under your own GitHub account. It differs from cloning because forking allows you to maintain a copy of the repository that can be synchronized with the original project. Forking is useful when you want to contribute to an existing project:
 
